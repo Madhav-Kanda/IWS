@@ -1,7 +1,7 @@
 # IWS
 Features Implemented:
-1. Google Sign In enabled
-2. Notion Api enabled
+1. Google Sign In
+2. Notion based Database
 
 Features to Implement:
 1. Text based search in Pdf
